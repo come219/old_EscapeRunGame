@@ -1,5 +1,7 @@
 # COMP6022_EscapeRunGame
 A repository for the COMP6022 Game Development Module, for the Escape, Run Game!
+3D Unity game mimicking Super Mario 64 and Zombies. 
+
 Now a repository that points to different reposoitories for this game. Note that some repos might be private.
 
 
@@ -7,6 +9,7 @@ Original Team:
   - Random boxes gameplay, Map: [https://github.com/come219](github.com/come219) 
   - Movement mechanics: [https://github.com/jamie-l-m-young](github.com/jamie-l-m-young)
   - Enemy AI and gameplay interactions: [https://github.com/pleeeb](github.com/pleeeb)
+  - Product Owner Actor/Reviewer: University Professor
 
 
 Repositories:
